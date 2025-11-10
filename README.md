@@ -43,9 +43,7 @@ Aquí encontrarás información, mensajes y recursos que inspiran a proteger y c
 -Visita mi perfil aquí: https://github.com/jeniarango15-source
 
 ##
-<p align="center>
-      <img src="<img width="474" height="341" alt="image" src="https://github.com/user-attachments/assets/2bfc9b65-8bd7-492c-9f26-2bfc3b76231d" />
-
+![Banner - Protejamos a los animales](https://images.unsplash.com/photo-1543852786-1cf6624b9987?auto=format&fit=crop&w=1200&q=80)
 
 
 ```bash
