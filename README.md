@@ -20,12 +20,11 @@ Aquí encontrarás información, mensajes y recursos que inspiran a proteger y c
    https://github.com/jeniarango15-source/EJ-RG-2 
 2. Descarga los archivos si deseas explorarlos en tu computador.
      ```bash
-    Solo haz clic en el botón verde Codey luego selecciona **“Download ZIP.
+    Solo haz clic en el botón verde Codey luego selecciona Download ZIP.
     Extrae la carpeta descargada 
-3. Entra a la Carpeta del proyecto.
+3. Entra a la Carpeta del proyecto extraído.
     ```bash
-    cd EJ-RJ-2
-    abre los archivos con tu editor favorito
+    Abre los archivos de la carpeta EJ-RJ-2 con tu editor favorito
     Lee los mensajes y ejemplos que ayudan a reflexionar sobre el cuidado animal 🐶💚.
     
 # 🌟🐶 Características del proyecto
@@ -41,7 +40,12 @@ Aquí encontrarás información, mensajes y recursos que inspiran a proteger y c
      print("🐾 Cada vida cuenta, sé la voz de los que no pueden hablar").
   ```
 # Enlace de mi Perfil
--Visita mi perfil aquí: https://github.com/jeniarango15-source/EJ-RG-2/edit/main/README.md  
+-Visita mi perfil aquí: https://github.com/jeniarango15-source
+
+##
+<p align="center>
+      <img src="<img width="474" height="341" alt="image" src="https://github.com/user-attachments/assets/2bfc9b65-8bd7-492c-9f26-2bfc3b76231d" />
+
 
 
 ```bash
