@@ -7,5 +7,7 @@ Autor: Jenifer Martán
 Awuí iría la descripción del proyecto
 ## comandos
 Este es un ejemplo para colocar comandos en el README
+# Proyecto EJ-RG-2
+
 ```bash
 git status
